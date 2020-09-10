@@ -1,7 +1,6 @@
 <resources>
-    <string name="app_name">PhraseTest</string>
-    <string name="module2_test1">test1</string>
-    <string name="module2_test2">test2</string>
-    <string name="module2_test3">test3</string>
-    <string name="module2_test4">test4</string>
+    <string name="module2_test1">module2_test1</string>
+    <string name="module2_test2">module2_test2</string>
+    <string name="module2_test3">module2_test3</string>
+    <string name="module2_test4">module2_test4</string>
 </resources>
