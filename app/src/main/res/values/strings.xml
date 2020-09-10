@@ -2,7 +2,8 @@
 <resources>
     <string name="aaaa">test5</string>
     <string name="app_name">PhraseTest</string>
-    <string name="bbbbb">" 哈哈哈哈哈哈"</string>
+    <string name="bbbbb">哈哈哈</string>
+    <string name="eeeeeeee">test5</string>
     <string name="module1_test1">module1_test1</string>
     <string name="module1_test2">module1_test2</string>
     <string name="module1_test3">module1_test3</string>
@@ -18,9 +19,10 @@
     <string name="test41">test4</string>
     <string name="test413">test4</string>
     <string name="test42">test4</string>
-    <string name="test42111223">test4</string>
+    <string name="test42111223">呵呵呵呵</string>
     <string name="test42223">test4</string>
     <string name="test423">test4</string>
     <string name="test43">test4</string>
     <string name="test5">test5</string>
+    <string name="xxxxxxxxxxxxxx">xxx</string>
 </resources>
