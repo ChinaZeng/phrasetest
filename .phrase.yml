@@ -1,7 +1,7 @@
 phrase:
   access_token: 4ad647a36afe8eeba7cdefa9cd14c3b72cabbe97a1ba4b8d2e2bf5e38fdacace
   file_format: xml
-  project_id: ce24b42781734a98ae0e5273d97af2a0
+  project_id: fc628df5382ebe673f478d123ab48b4a
   pull:
     targets:
     - file: ./app/src/main/res/values/strings.xml
