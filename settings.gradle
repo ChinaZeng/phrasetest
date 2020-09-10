@@ -1,0 +1,4 @@
+include ':Module2'
+include ':Module1'
+include ':app'
+rootProject.name = "PhraseTest"

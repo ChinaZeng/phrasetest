@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhraseTest</string>
+    <string name="module1_test1">test1</string>
+    <string name="module1_test2">test2</string>
+    <string name="module1_test3">test3</string>
+    <string name="module1_test4">test4</string>
+</resources>
