@@ -1,15 +1,22 @@
 phrase:
   access_token: 4ad647a36afe8eeba7cdefa9cd14c3b72cabbe97a1ba4b8d2e2bf5e38fdacace
   file_format: xml
-  project_id: fc628df5382ebe673f478d123ab48b4a
+  project_id: 9a05a5ee4e18727b5ec0ebf563f30293
   pull:
     targets:
-    - file: ./app/src/main/res/values/strings.xml
-    - file: ./app/src/main/res/values-es/strings.xml
-    - file: ./app/src/main/res/values-ru/strings.xml
-    - file: ./app/src/main/res/values-zh/strings.xml
+      - file: ./app/src/main/res/values/strings.xml
+        params: {locale_id: 2ff193437ae8685bd399d40cb16f8b22}
+      - file: ./app/src/main/res/values-es/strings.xml
+        params: {locale_id: 9adb3cbea07c68ada7a9f969afe9cf2e}
+      - file: ./app/src/main/res/values-ru/strings.xml
+        params: {locale_id: 582bf174989742821b27344adea7cec0}
+      - file: ./app/src/main/res/values-zh/strings.xml
+        params: {locale_id: f7bce058121753a4236fb68ea711b87f}
   push:
     sources:
-    - file: ./app/src/main/res/values/strings.xml
-    - file: ./Module1/src/main/res/values/strings.xml
-    - file: ./Module2/src/main/res/values/strings.xml
+      - file: ./Module1/src/main/res/values/strings.xml
+        params: {locale_id: 2ff193437ae8685bd399d40cb16f8b22}
+      - file: ./app/src/main/res/values/strings.xml
+        params: {locale_id: 2ff193437ae8685bd399d40cb16f8b22}
+      - file: ./Module2/src/main/res/values/strings.xml
+        params: {locale_id: 2ff193437ae8685bd399d40cb16f8b22}

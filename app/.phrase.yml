@@ -1,0 +1,18 @@
+phrase:
+  access_token: 4ad647a36afe8eeba7cdefa9cd14c3b72cabbe97a1ba4b8d2e2bf5e38fdacace
+  file_format: xml
+  project_id: fc628df5382ebe673f478d123ab48b4a
+  pull:
+    targets:
+    - file: ./app/src/main/res/values/strings.xml
+    - file: ./app/src/main/res/values-es/strings.xml
+    - file: ./app/src/main/res/values-ru/strings.xml
+    - file: ./app/src/main/res/values-zh/strings.xml
+  push:
+    sources:
+    - file: ./app/src/main/res/values/strings.xml
+    - file: ./Module1/src/main/res/values/strings.xml
+    - file: ./Module2/src/main/res/values/strings.xml
+
+
+
